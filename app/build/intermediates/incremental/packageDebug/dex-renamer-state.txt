@@ -1,0 +1,7 @@
+#Wed Oct 18 01:28:44 IST 2017
+base.0=D\:\\COLLEGE\\first year\\android\\JustJava\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4abe06a698df5f7f57fa0c9a3a2b467f1b026e0c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\COLLEGE\\first year\\android\\JustJava\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_486b7773be018873e5324cafb7fa9f0960ea1340\\classes.dex
+base.1=D\:\\COLLEGE\\first year\\android\\JustJava\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_486b7773be018873e5324cafb7fa9f0960ea1340
+file.0=D\:\\COLLEGE\\first year\\android\\JustJava\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4abe06a698df5f7f57fa0c9a3a2b467f1b026e0c\\classes.dex
