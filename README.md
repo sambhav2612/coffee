@@ -1,4 +1,4 @@
-# Udacity-Android-CoffeeCalc
+# Android-CoffeeCalcApp
 ### v1.3.4
 
 Stuff Used:
