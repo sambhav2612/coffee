@@ -10,5 +10,5 @@ Stuff Used:
 
 Features:
 - Rotation-support.
-- Splash Screeen enabled.
-- Easy to understand and rebuild. 
+- Enclosed in ScrollView for *scrolling content*.
+- Splash Screeen :)
