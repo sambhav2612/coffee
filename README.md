@@ -1,4 +1,8 @@
 # Android-CoffeeCalcApp
+#### current v1.4.0
+
+in branch ```patch-4```
+
 
 Stuff Used:
 - *FirebaseAnalytics* for Application Ananlysis and tools.
@@ -11,8 +15,6 @@ Features:
 - Rotation-support.
 - Enclosed in ScrollView for *scrolling content*.
 - Splash Screeen :)
-
-#### current v1.4.0
 
 ##### changelog v1.3.5->v1.4.0
 - Added Login/Signup Screens
