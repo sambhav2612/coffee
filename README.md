@@ -1,7 +1,5 @@
 # Android-CoffeeCalcApp
-#### current v1.4.0
-
-in branch ```patch-4```
+#### current: v1.4.0 on branch ```patch-4```
 
 
 Stuff Used:
