@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">964419752339-l9e8a5aup8enchpkhlnn583g4pjl8dk3.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://coffeecalc-f8d57.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">964419752339</string>
+    <string name="google_api_key" translatable="false">AIzaSyB9E7qd-DKA1_bupkHTdX_xoNvLEdEYUM0</string>
+    <string name="google_app_id" translatable="false">1:964419752339:android:cc2bb8458ecda51b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB9E7qd-DKA1_bupkHTdX_xoNvLEdEYUM0</string>
+    <string name="google_storage_bucket" translatable="false">coffeecalc-f8d57.appspot.com</string>
+</resources>

@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Coffee Order App</string>
+    <string name="login">Login</string>
+    <string name="hi">Hi, </string>
+    <string name="radio_app">Did you bring your own cup?</string>
+    <string name="quantity">Quantity</string>
+    <string name="zero">0</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="reset">reset</string>
+    <string name="price">Price</string>
+    <string name="net_price">$0</string>
+    <string name="submit">submit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="why">(Why?)</string>
+    <string name="msg">You need to pay for the paper cups we provide, at the rate of $2 each. </string>
+    <string name="submitERR">Order can not be processed\nQuantity must be at least ONE!</string>
+    <string name="land">Screen switched to Landscape mode</string>
+    <string name="port">Screen switched to Portrait mode</string>
+    <string name="subC">Order submitted successfully!</string>
+    <string name="checkRB">Order can not be processed until you select one of the above options!!</string>
+    <string name="valZERO">Value already ZERO, can not reset!</string>
+    <string name="valBelowZERO">Value can not be less than ONE!</string>
+    <string name="dialog_title">Order Confirmation</string>
+    <string name="receipt">Order Receipt</string>
+    <string name="dialog_msg">Do you wish to proceed?</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="no_name">No One</string>
+    <string name="no_email">person.with@noemail.com</string>
+    <string name="colon">: </string>
+    <string name="hash">#</string>
+    <string name="space">\t</string>
+    <string name="new_line">\n</string>
+    <string name="loginn">Login</string>
+    <string name="signup">Signup</string>
+    <string name="about">About this app</string>
+    <string name="order_now">User DB/Feed</string>
+    <string name="about_text">This application simulates a Coffee Shop. As easy as it looks like, it is pretty straight forward to implement.
+        \n\n So, when a new customer walks into a shop, the attendee asks for their initial credentials which when they visit again need
+        not to be produced again-instead, they can only present limited resources to validate them within their database which the shop made
+        on their first appearance. \n\n I have tried my best on making this app easy to debug and extend, hence it\'s source code is available on GitHub.
+        \n\n If you find a bug somewhere, please create a PR so that I can approve and merge the changes you made. \n\n\nThanks for stopping by!</string>
+    <string name="desp">Now, you can order your coffee within a blink of an eye.</string>
+    <string name="order_placed">Your order has been placed!</string>
+    <string name="order_details">Tap this banner to know more about your order.</string>
+</resources>

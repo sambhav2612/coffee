@@ -1,0 +1,372 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml
+		INJECTED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml
+		INJECTED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml
+		INJECTED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:5:5-11:36
+	android:largeScreens
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:9:9-36
+	android:smallScreens
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:7:9-36
+	android:normalScreens
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:8:9-37
+	android:xlargeScreens
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:10:9-37
+	android:resizeable
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:6:9-34
+	android:anyDensity
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:11:9-34
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:14:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\ab7d662e98c7e414ab0fa2406bcef21670f0c51b\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\813238048350eaddb054f0eeec156d40e82e3ba6\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\27523cf2ffbccd1c4675a5b7e53037e8b020fc0e\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:15:5-84
+	android:name
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:15:22-82
+application
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:17:5-61:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sambhav Jain\.android\build-cache\8c3ca1aad29b2c673c090f99e9c6e9d6f2ce1231\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\ce4ad58a8196efcc1a3c49fee54b4a8c8ee13a12\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\aff6801e59e23ac437e278269b26c649210c564f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\f8192c06b3f76a11942a4b8f677bf1b0c88008d5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\e6ba262a782e7712d9921e5dbfdd362a03d92460\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\2bc772f3f8a33e2abe07bb6c241740da23164755\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\3b408b2a637aa8ba0afaae97e2f9398a1c913274\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\9acb3c10b3db86f327d9ca0040e0da7876540bc7\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\ab7d662e98c7e414ab0fa2406bcef21670f0c51b\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\8237492f4828a4a2592a3145868b00c932773698\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-invites:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\f44ea91368ab261775c46a9862a032cdbbd23d65\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\813238048350eaddb054f0eeec156d40e82e3ba6\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\5a533e0622a569f51d6b63809de034c2a64ada71\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\27523cf2ffbccd1c4675a5b7e53037e8b020fc0e\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\2863096c48604282f7d86412ac2a3803401209e8\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\1d2e940edc823971d90906a1e65b7a1f89e67a72\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\96669982ba11df00dc2e535918abbdefa475d3b1\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\e6ed5f055252ef2d46ace3dea685331eae85faa8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\8eb4aa86921469fd163899cc46ed9d7343bb7b61\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\51ad2741312bdd2d621f831857389c7199d5a0f6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\66e732265464530ed2c27f6e2041b785d3285619\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\1be270fb0c19342e3c9727e550e3fd78e5045f96\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\9325c1e4e75d29785f9340ce8a1384e73cb72dd7\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:20:9-41
+	android:supportsRtl
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:23:9-35
+	android:fullBackupContent
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:22:9-54
+	android:allowBackup
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:18:9-35
+	android:icon
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:21:9-43
+	android:theme
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:24:9-40
+activity#com.example.android.justjava.SplashActivity
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:25:9-42:20
+	android:theme
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:26:13-47
+	android:allowEmbedded
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:27:13-42
+	android:name
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:25:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:28:9-31:25
+action#android.intent.action.MAIN
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:29:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:30:13-73
+	android:name
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:30:23-70
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:32:9-41:25
+	android:autoVerify
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:32:24-49
+action#android.intent.action.VIEW
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:33:13-65
+	android:name
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:33:21-62
+category#android.intent.category.DEFAULT
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:34:23-69
+category#android.intent.category.BROWSABLE
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:35:13-74
+	android:name
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:35:23-71
+data
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:37:13-40:36
+	android:path
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:40:17-33
+	android:host
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:39:17-53
+	android:scheme
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:38:17-39
+activity#com.example.android.justjava.credentials
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:43:9-45:20
+	android:label
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:44:13-46
+	android:name
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:43:19-46
+activity#com.example.android.justjava.login_main
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:47:13-42
+	android:parentActivityName
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:48:13-54
+	android:name
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:46:19-45
+activity#com.example.android.justjava.signup_main
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:50:9-53:20
+	android:label
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:51:13-43
+	android:parentActivityName
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:50:19-46
+activity#com.example.android.justjava.about
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:54:9-57:20
+	android:label
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:55:13-42
+	android:parentActivityName
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:56:13-54
+	android:name
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:54:19-40
+activity#com.example.android.justjava.MainActivity
+ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:58:9-60:55
+	android:label
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:59:13-45
+	android:parentActivityName
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:60:13-53
+	android:name
+		ADDED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml:58:19-47
+uses-sdk
+INJECTED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Sambhav Jain\.android\build-cache\8c3ca1aad29b2c673c090f99e9c6e9d6f2ce1231\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\ce4ad58a8196efcc1a3c49fee54b4a8c8ee13a12\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\aff6801e59e23ac437e278269b26c649210c564f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\f8192c06b3f76a11942a4b8f677bf1b0c88008d5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\e6ba262a782e7712d9921e5dbfdd362a03d92460\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\c9b860c9d838436106ff62ad94c64e0882826b2e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\2bc772f3f8a33e2abe07bb6c241740da23164755\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\3b408b2a637aa8ba0afaae97e2f9398a1c913274\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\9acb3c10b3db86f327d9ca0040e0da7876540bc7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\ab7d662e98c7e414ab0fa2406bcef21670f0c51b\output\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\8237492f4828a4a2592a3145868b00c932773698\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-invites:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\f44ea91368ab261775c46a9862a032cdbbd23d65\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\813238048350eaddb054f0eeec156d40e82e3ba6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\5a533e0622a569f51d6b63809de034c2a64ada71\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\27523cf2ffbccd1c4675a5b7e53037e8b020fc0e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\2863096c48604282f7d86412ac2a3803401209e8\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\1d2e940edc823971d90906a1e65b7a1f89e67a72\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\96669982ba11df00dc2e535918abbdefa475d3b1\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\e6ed5f055252ef2d46ace3dea685331eae85faa8\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\8eb4aa86921469fd163899cc46ed9d7343bb7b61\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\51ad2741312bdd2d621f831857389c7199d5a0f6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\66e732265464530ed2c27f6e2041b785d3285619\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\1be270fb0c19342e3c9727e550e3fd78e5045f96\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\9325c1e4e75d29785f9340ce8a1384e73cb72dd7\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\ce4ad58a8196efcc1a3c49fee54b4a8c8ee13a12\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml
+		INJECTED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml
+		INJECTED from D:\COLLEGE\first year\android\JustJava\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\ce4ad58a8196efcc1a3c49fee54b4a8c8ee13a12\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\aff6801e59e23ac437e278269b26c649210c564f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\f8192c06b3f76a11942a4b8f677bf1b0c88008d5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\e6ba262a782e7712d9921e5dbfdd362a03d92460\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\c9b860c9d838436106ff62ad94c64e0882826b2e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\2bc772f3f8a33e2abe07bb6c241740da23164755\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\e6ed5f055252ef2d46ace3dea685331eae85faa8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\8eb4aa86921469fd163899cc46ed9d7343bb7b61\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\51ad2741312bdd2d621f831857389c7199d5a0f6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\66e732265464530ed2c27f6e2041b785d3285619\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\1be270fb0c19342e3c9727e550e3fd78e5045f96\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\9325c1e4e75d29785f9340ce8a1384e73cb72dd7\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\ce4ad58a8196efcc1a3c49fee54b4a8c8ee13a12\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Sambhav Jain\.android\build-cache\ce4ad58a8196efcc1a3c49fee54b4a8c8ee13a12\output\AndroidManifest.xml:26:9-47
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\9acb3c10b3db86f327d9ca0040e0da7876540bc7\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\9acb3c10b3db86f327d9ca0040e0da7876540bc7\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\9acb3c10b3db86f327d9ca0040e0da7876540bc7\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\9acb3c10b3db86f327d9ca0040e0da7876540bc7\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\9acb3c10b3db86f327d9ca0040e0da7876540bc7\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\9acb3c10b3db86f327d9ca0040e0da7876540bc7\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\9acb3c10b3db86f327d9ca0040e0da7876540bc7\output\AndroidManifest.xml:25:25-75
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\813238048350eaddb054f0eeec156d40e82e3ba6\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\813238048350eaddb054f0eeec156d40e82e3ba6\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\813238048350eaddb054f0eeec156d40e82e3ba6\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\813238048350eaddb054f0eeec156d40e82e3ba6\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\813238048350eaddb054f0eeec156d40e82e3ba6\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\813238048350eaddb054f0eeec156d40e82e3ba6\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\813238048350eaddb054f0eeec156d40e82e3ba6\output\AndroidManifest.xml:22:25-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\5a533e0622a569f51d6b63809de034c2a64ada71\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\5a533e0622a569f51d6b63809de034c2a64ada71\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\5a533e0622a569f51d6b63809de034c2a64ada71\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\5a533e0622a569f51d6b63809de034c2a64ada71\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\27523cf2ffbccd1c4675a5b7e53037e8b020fc0e\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\27523cf2ffbccd1c4675a5b7e53037e8b020fc0e\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\27523cf2ffbccd1c4675a5b7e53037e8b020fc0e\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\27523cf2ffbccd1c4675a5b7e53037e8b020fc0e\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\7e29c892c63986e20a2280a267f50819efa3a5dc\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\afa23b13bb65c23caa0aab0a266120a51932ce0b\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\2863096c48604282f7d86412ac2a3803401209e8\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\2863096c48604282f7d86412ac2a3803401209e8\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\2863096c48604282f7d86412ac2a3803401209e8\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\2863096c48604282f7d86412ac2a3803401209e8\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\2863096c48604282f7d86412ac2a3803401209e8\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\96669982ba11df00dc2e535918abbdefa475d3b1\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\96669982ba11df00dc2e535918abbdefa475d3b1\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Sambhav Jain\.android\build-cache\96669982ba11df00dc2e535918abbdefa475d3b1\output\AndroidManifest.xml:20:20-65

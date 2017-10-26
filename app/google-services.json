@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "964419752339",
+    "firebase_url": "https://coffeecalc-f8d57.firebaseio.com",
+    "project_id": "coffeecalc-f8d57",
+    "storage_bucket": "coffeecalc-f8d57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964419752339:android:cc2bb8458ecda51b",
+        "android_client_info": {
+          "package_name": "com.example.android.justjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964419752339-dfep3l2q5eiboqt62u6cb6m34fhavv54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.justjava",
+            "certificate_hash": "ae7f02e2f809b13a9482c730be67deb697e46599"
+          }
+        },
+        {
+          "client_id": "964419752339-l9e8a5aup8enchpkhlnn583g4pjl8dk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9E7qd-DKA1_bupkHTdX_xoNvLEdEYUM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964419752339-l9e8a5aup8enchpkhlnn583g4pjl8dk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

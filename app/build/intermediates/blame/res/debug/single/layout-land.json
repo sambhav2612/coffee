@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\COLLEGE\\first year\\android\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\login_main.xml",
+        "source": "D:\\COLLEGE\\first year\\android\\JustJava\\app\\src\\main\\res\\layout-land\\login_main.xml"
+    },
+    {
+        "merged": "D:\\COLLEGE\\first year\\android\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\about.xml",
+        "source": "D:\\COLLEGE\\first year\\android\\JustJava\\app\\src\\main\\res\\layout-land\\about.xml"
+    },
+    {
+        "merged": "D:\\COLLEGE\\first year\\android\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\signup_main.xml",
+        "source": "D:\\COLLEGE\\first year\\android\\JustJava\\app\\src\\main\\res\\layout-land\\signup_main.xml"
+    },
+    {
+        "merged": "D:\\COLLEGE\\first year\\android\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\credentials.xml",
+        "source": "D:\\COLLEGE\\first year\\android\\JustJava\\app\\src\\main\\res\\layout-land\\credentials.xml"
+    },
+    {
+        "merged": "D:\\COLLEGE\\first year\\android\\JustJava\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
+        "source": "D:\\COLLEGE\\first year\\android\\JustJava\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    }
+]

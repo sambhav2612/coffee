@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.justjava">
+
+    <supports-screens
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:normalScreens="true"
+        android:largeScreens="true"
+        android:xlargeScreens="true"
+        android:anyDensity="true"/>
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY"/>
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:label="@string/app_name"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashActivity"
+            android:theme="@style/SplashTheme"
+            android:allowEmbedded="false">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        <intent-filter android:autoVerify="true">
+            <action android:name="android.intent.action.VIEW" />
+            <category android:name="android.intent.category.DEFAULT" />
+            <category android:name="android.intent.category.BROWSABLE" />
+
+            <data
+                android:scheme="https"
+                android:host="sambhav2612.github.io"
+                android:path="/" />
+        </intent-filter>
+        </activity>
+        <activity android:name=".credentials"
+            android:label="@string/order_now">
+        </activity>
+        <activity android:name=".login_main"
+            android:label="@string/login"
+            android:parentActivityName=".credentials">
+        </activity>
+        <activity android:name=".signup_main"
+            android:label="@string/signup"
+            android:parentActivityName=".credentials">
+        </activity>
+        <activity android:name=".about"
+            android:label="@string/about"
+            android:parentActivityName=".credentials">
+        </activity>
+        <activity android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:parentActivityName=".login_main"/>
+    </application>
+
+</manifest>
