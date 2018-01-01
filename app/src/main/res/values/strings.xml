@@ -1,14 +1,19 @@
 <resources>
     <string name="app_name">coffee</string>
     <string name="main_item_header">Select your main item</string>
-    <string name="main_spinner_prompt">Choose...</string>
-
-    <!-- spinners -->
+    <string name="spinner_prompt">Choose…</string>
 
     <string-array name="main_item_spinner">
         <item>Hot Coffee</item>
         <item>Mocha</item>
         <item>Cappuchino</item>
-        <item>Blah Blah</item>
     </string-array>
+
+    <string name="second_item_header">Select your secondary item(optional)</string>
+    <string name="second_item1">Burger</string>
+    <string name="second_item2">Fries</string>
+    <string name="second_item3">Apple Pie</string>
+
+    <string name="continue_button">Continue…</string>
+
 </resources>

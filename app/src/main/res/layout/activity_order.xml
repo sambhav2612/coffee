@@ -9,23 +9,89 @@
     tools:context="io.github.sambhav2612.coffee.order">
 
     <RelativeLayout
+        android:id="@+id/inner_layout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#FFFFFF">
+        android:background="#FFFFFF"
+        android:padding="10dp">
 
         <TextView
             android:id="@+id/main_item_header"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/main_item_header"/>
+            android:text="@string/main_item_header"
+            android:textColor="#000"
+            android:textSize="15sp" />
 
         <Spinner
             android:id="@+id/main_item_spinner"
-            android:layout_below="@id/main_item_header"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/main_item_header"
             android:layout_marginTop="10dp"
-            android:prompt="@string/main_spinner_prompt"/>
+            android:prompt="@string/spinner_prompt" />
+
+        <LinearLayout
+            android:id="@+id/secondary_option_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/main_item_spinner"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/second_item_header"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/second_item_header"
+                android:textColor="#000"
+                android:textSize="15sp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal"
+                android:weightSum="0.75">
+
+                <CheckBox
+                    android:id="@+id/second_item1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.25"
+                    android:onClick="subItem1"
+                    android:text="@string/second_item1" />
+
+                <CheckBox
+                    android:id="@+id/second_item2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.25"
+                    android:onClick="subItem2"
+                    android:text="@string/second_item2" />
+
+                <CheckBox
+                    android:id="@+id/second_item3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.25"
+                    android:onClick="subItem3"
+                    android:text="@string/second_item3" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/continue_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerInParent="true"
+            android:paddingEnd="20dp"
+            android:paddingStart="20dp"
+            android:text="@string/continue_button" />
 
     </RelativeLayout>
 
