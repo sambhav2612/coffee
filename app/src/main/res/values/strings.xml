@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">coffee</string>
+    <string name="main_item_header">Select your main item</string>
+    <string name="main_spinner_prompt">Choose...</string>
+
+    <!-- spinners -->
+
+    <string-array name="main_item_spinner">
+        <item>Hot Coffee</item>
+        <item>Mocha</item>
+        <item>Cappuchino</item>
+        <item>Blah Blah</item>
+    </string-array>
+</resources>
